@@ -6,3 +6,5 @@ prerequisites :
 *Python 3 and above:
           To install python - https://www.python.org/downloads/
           
+How to run : 
+Put all images in 'images' folder you  have created in your local computer and run the python script
